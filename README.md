@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on: Koi (Sound Services)
+- 🔭 I’m currently working on: An r/place clone w/ harsher rulesys(s)
 - 📫 How to reach me: 2005jayceh@gmail.com
